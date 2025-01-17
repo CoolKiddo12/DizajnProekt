@@ -1,0 +1,20 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE folders
+.idea/
+.vscode/
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore H2 database files
+*.h2.db
+*.h2.db.lock
+
+# Ignore log files
+*.log
+
+Changes from the remote repository
+
